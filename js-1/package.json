@@ -1,0 +1,15 @@
+{
+  "name": "js-1",
+  "version": "1.0.0",
+  "description": "Primer proyecto de javascript ",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node saludar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio"
+  ],
+  "author": "Javier",
+  "license": "ISC"
+}
